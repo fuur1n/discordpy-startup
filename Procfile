@@ -1,1 +1,1 @@
-discordbot: python fuurindesubot.py
+discordbot: python testBOT2.py
